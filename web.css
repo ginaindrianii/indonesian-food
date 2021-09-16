@@ -1,0 +1,23 @@
+.logo:hover{
+	height: 160px;
+	width: 200px;
+}
+.menu{
+	font-size: 20px;
+	text-align: center;
+	width: 150px;
+}
+.menu:hover{
+	background-color: #FF0000;
+	color: #F8F8FF;
+}
+.pos{
+	text-align: center;
+}
+.frop{
+	text-align: center;
+}
+.teb{
+	text-align: center;
+
+}
